@@ -112,109 +112,116 @@ Software as a Service (SaaS) delivers ready-to-use software applications over th
 - Office productivity
 - Video conferencing
 - Customer Relationship Management (CRM)
-  Shared Responsibility Model
-Definition
+
+  ---
+  
+# Shared Responsibility Model
+
+**Definition**
 
 The Shared Responsibility Model defines the security responsibilities shared between the cloud provider and the customer. While the cloud provider secures the cloud infrastructure, customers are responsible for securing their own applications, data, and user access depending on the service model they choose.
 
-Cloud Provider Responsibilities
+**Cloud Provider Responsibilities**
 
 The cloud provider is responsible for:
+- Physical data center security
+- Network infrastructure
+- Servers and storage hardware
+- Virtualization layer
+- Power supply and cooling
+- Physical maintenance
 
-Physical data center security
-Network infrastructure
-Servers and storage hardware
-Virtualization layer
-Power supply and cooling
-Physical maintenance
-Customer Responsibilities
+**Customer Responsibilities**
 
 The customer is responsible for:
+- Protecting application data
+- User authentication and access control
+- Managing operating systems (mainly in IaaS)
+- Installing software updates where applicable
+- Configuring cloud services securely
+- Encrypting sensitive information
 
-Protecting application data
-User authentication and access control
-Managing operating systems (mainly in IaaS)
-Installing software updates where applicable
-Configuring cloud services securely
-Encrypting sensitive information
-Responsibility Across Service Models
-IaaS
+**Responsibility Across Service Models**
 
-Customer manages:
-
-Operating System
-Applications
-Data
-Network configurations
-
-Provider manages:
-
-Physical servers
-Storage
-Networking
-Virtualization
-PaaS
+**IaaS**
 
 Customer manages:
-
-Applications
-Data
+- Operating System
+- Applications
+- Data
+- Network configurations
 
 Provider manages:
-
-Infrastructure
-Operating System
-Runtime environment
-SaaS
+- Physical servers
+- Storage
+- Networking
+- Virtualization
+  
+**PaaS**
 
 Customer manages:
-
-User accounts
-Data access
-Security settings
+- Applications
+- Data
 
 Provider manages:
+- Infrastructure
+- Operating System
+- Runtime environment
+  
+**SaaS**
 
-Entire software application
-Infrastructure
-Maintenance
-Updates
-Security of the platform
-Benefits of Cloud Service Models
-Reduced infrastructure costs
-High scalability
-Faster deployment
-Improved availability
-Automatic updates
-Better collaboration
-Global accessibility
-Reliable backup and disaster recovery
-Flexible resource allocation
-Major Cloud Providers
-Amazon Web Services (AWS)
+Customer manages:
+- User accounts
+- Data access
+- Security settings
+
+Provider manages:
+- Entire software application
+- Infrastructure
+- Maintenance
+- Updates
+- Security of the platform
+  
+**Benefits of Cloud Service Models**
+
+- Reduced infrastructure costs
+- High scalability
+- Faster deployment
+- Improved availability
+- Automatic updates
+- Better collaboration
+- Global accessibility
+- Reliable backup and disaster recovery
+- Flexible resource allocation
+
+# Major Cloud Providers
+
+## Amazon Web Services (AWS)
 
 AWS is the world's largest cloud platform, offering a wide range of cloud services including computing, storage, databases, artificial intelligence, and networking. It is widely used by startups, enterprises, and government organizations.
 
-Popular Services
-Amazon EC2
-Amazon S3
-Amazon RDS
-AWS Lambda
-Microsoft Azure
+**Popular Services:**
+- Amazon EC2
+- Amazon S3
+- Amazon RDS
+- AWS Lambda
+  
+## Microsoft Azure
 
 Microsoft Azure is a cloud platform that integrates seamlessly with Microsoft products and is widely adopted by enterprises for application hosting, virtualization, and hybrid cloud solutions.
 
-Popular Services
-Azure Virtual Machines
-Azure App Service
-Azure SQL Database
-Azure Functions
-Google Cloud Platform (GCP)
+**Popular Services:**
+- Azure Virtual Machines
+- Azure App Service
+- Azure SQL Database
+- Azure Functions
+  
+## Google Cloud Platform (GCP)
 
 Google Cloud Platform focuses on data analytics, machine learning, artificial intelligence, and containerized applications. It is known for its high-performance infrastructure and advanced AI capabilities.
 
-Popular Services
-Compute Engine
-Cloud Storage
-BigQuery
-Google Kubernetes Engine (GKE)
+**Popular Services:**
+- Compute Engine
+- Cloud Storage
+- BigQuery
+- Google Kubernetes Engine (GKE)
