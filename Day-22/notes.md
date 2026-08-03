@@ -1,4 +1,4 @@
-# Day 22 – Serverless Computing
+# Serverless Computing
 
 ##  Introduction
 
