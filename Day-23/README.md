@@ -1,12 +1,12 @@
-# ☁️ Day 23 – Cloud Disaster Recovery & Business Continuity
+#  Day 23 – Cloud Disaster Recovery & Business Continuity
 
-## 📌 Overview
+##  Overview
 
 Day 23 of my **Cloud Learning Journey** focused on **Cloud Disaster Recovery (DR) and Business Continuity (BC)**.
 
 I learned how cloud platforms help organizations protect their applications and data, minimize downtime, and recover quickly from failures and disasters.
 
-## 📚 Topics Covered
+##  Topics Covered
 
 * Disaster Recovery (DR)
 * Business Continuity (BC)
@@ -20,7 +20,7 @@ I learned how cloud platforms help organizations protect their applications and 
 * Azure Disaster Recovery Services
 * Failover and Replication
 
-## 🔑 Key Concepts
+## Key Concepts
 
 ### Disaster Recovery
 
@@ -42,7 +42,7 @@ RTO defines the maximum acceptable time required to restore a system.
 
 **Example:** RTO = 30 minutes means the system should be restored within 30 minutes.
 
-## 🔄 Disaster Recovery Strategies
+##  Disaster Recovery Strategies
 
 | Strategy                    | Cost        | Recovery Speed |
 | --------------------------- | ----------- | -------------- |
@@ -51,7 +51,7 @@ RTO defines the maximum acceptable time required to restore a system.
 | Warm Standby                | Medium–High | Fast           |
 | Hot Standby / Active-Active | High        | Very Fast      |
 
-## ☁️ Cloud DR Services
+##  Cloud DR Services
 
 ### AWS
 
@@ -68,13 +68,13 @@ RTO defines the maximum acceptable time required to restore a system.
 * Azure Storage
 * Azure SQL Database
 
-## ⚡ High Availability vs Disaster Recovery
+##  High Availability vs Disaster Recovery
 
 **High Availability:** Minimizes service interruptions using redundancy and failover.
 
 **Disaster Recovery:** Focuses on restoring systems after major failures or disasters.
 
-## 🎯 Key Takeaways
+##  Key Takeaways
 
 * Disaster Recovery helps organizations recover from failures.
 * Business Continuity helps keep critical operations running.
@@ -84,8 +84,8 @@ RTO defines the maximum acceptable time required to restore a system.
 * Multiple regions and availability zones can improve resilience.
 * Cloud platforms provide scalable and automated disaster recovery solutions.
 
-## 📈 Learning Progress
+##  Learning Progress
 
-**Day 23/30+ – Completed ✅**
+**Day 23/30+ – Completed**
 
 Continuing my journey to build strong foundations in **Cloud Computing, AWS, Azure, DevOps, and Cloud Infrastructure**.
