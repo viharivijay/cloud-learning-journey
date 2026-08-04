@@ -74,7 +74,7 @@ RTO defines the maximum acceptable time required to restore a system.
 
 **Disaster Recovery:** Focuses on restoring systems after major failures or disasters.
 
-##  Key Takeaways
+## Key Takeaways
 
 * Disaster Recovery helps organizations recover from failures.
 * Business Continuity helps keep critical operations running.
