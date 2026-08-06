@@ -1,6 +1,6 @@
-Day 15 – Cloud Containers & Docker Basics
+# Day 15 – Cloud Containers & Docker Basics
 
-Topics Covered
+## Topics Covered
 
 - Introduction to Containers
 - Why Containers are Used
@@ -14,7 +14,7 @@ Topics Covered
 - Benefits of Docker
 - Real-World Use Cases
 
-Key Learning Outcomes
+## Key Learning Outcomes
 
 - Understood the concept of containerization.
 - Learned how Docker simplifies application deployment.
@@ -23,7 +23,7 @@ Key Learning Outcomes
 - Practiced basic Docker commands.
 - Understood why Docker is widely used in Cloud Computing and DevOps.
 
-Key Takeaways
+## Key Takeaways
 
 - Containers are lightweight, portable, and efficient.
 - Docker packages applications with all required dependencies.
@@ -31,6 +31,6 @@ Key Takeaways
 - Containerization improves scalability, resource utilization, and deployment speed.
 - Docker is a foundational technology for Kubernetes and modern cloud-native applications.
 
-Next Step
+## Next Step
 
 Day 16 – Kubernetes Basics (Container Orchestration)
