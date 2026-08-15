@@ -1,6 +1,6 @@
-# ☁️ Day 32 – Cloud Storage & Database Services
+#  Day 32 – Cloud Storage & Database Services
 
-## 📅 Day 32 of 50-Day Cloud Learning Journey
+##  Day 32 of 50-Day Cloud Learning Journey
 
 Today I learned about **Cloud Storage and Cloud Database Services**, which are essential components of modern cloud applications.
 
@@ -8,7 +8,7 @@ The focus was on understanding different storage types, cloud databases, SQL vs 
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 By the end of Day 32, I learned:
 
