@@ -1,6 +1,6 @@
 # Day 33 — Cloud Databases
 
-## 🎯 Learning Objective
+##  Learning Objective
 
 Today I learned about **Cloud Databases** and how databases are deployed, managed, scaled, secured, and backed up in cloud environments.
 
@@ -545,7 +545,7 @@ A caching service could be used to reduce repeated database queries.
 
 ---
 
-## 🧠 Interview Questions
+##  Interview Questions
 
 ### 1. What is a cloud database?
 
@@ -608,7 +608,7 @@ Try the following:
 
 ---
 
-## 🔑 Keywords to Remember
+##  Keywords to Remember
 
 `Cloud Database`
 `DBaaS`
