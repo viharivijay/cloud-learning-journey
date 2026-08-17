@@ -49,6 +49,6 @@ A CDN improves application performance by caching content at geographically dist
 
 **Day 34 — Completed **
 
-### 🔗 Detailed Notes
+###  Detailed Notes
 
-See   for complete notes.
+See https://github.com/viharivijay/cloud-learning-journey/blob/main/Day-34/notes.md  for complete notes.
